@@ -20,9 +20,15 @@
 4. for user account register a new user
 ---
 
-# direct link 
+## Author :
+   Ritik Raj
+   <br>
+   Email: rajsinghritik@gmail.com
+   <br>
+   LinkedIn : linkedin.com/in/ritikraj8
+## Website Link :
+   url : https://github.com/rajsinghritik/Amazon-Clone/
 
-  LinkedIn : linkedin.com/in/ritikraj8
 
 ---
 # Contributors
