@@ -4,7 +4,7 @@
   
   <br>
   <a style="" href="https://github.com/rajsinghritik">
-  <img src="https://profile-counter.glitch.me//Library Management System count.svg" />
+  <img src="https://profile-counter.glitch.me/library-management-system/count.svg" />
   </a>
 </p>
 
