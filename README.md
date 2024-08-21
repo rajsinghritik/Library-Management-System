@@ -4,7 +4,7 @@
   
   <br>
   <a style="" href="https://github.com/rajsinghritik">
-  <img src="https://profile-counter.glitch.me/airbnb-project/count.svg" />
+  <img src="https://profile-counter.glitch.me//Library Management System count.svg" />
   </a>
 </p>
 
