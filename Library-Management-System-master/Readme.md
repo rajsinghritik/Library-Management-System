@@ -26,11 +26,7 @@
 
 ---
 # Contributors
-- ##### Rajendra Prajapat
-- ##### Dheeraj Chaudhary
-- ##### Priya Tiru
-- ##### Rajdeep Das
-- ##### Shashank N S
+- ##### RITIK RAJ
 
-##### Supervised By- Prof. Channappa B AKKI
-###### Academic Year: 2018-2019
+
+
