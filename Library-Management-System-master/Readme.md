@@ -27,7 +27,7 @@
    <br>
    LinkedIn : linkedin.com/in/ritikraj8
 ## Website Link :
-   url : https://github.com/rajsinghritik/Amazon-Clone/
+   url : https://github.com/rajsinghritik/Library Management System
 
 
 ---
