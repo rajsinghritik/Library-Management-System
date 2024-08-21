@@ -22,7 +22,7 @@
 
 # direct link 
 
-https://rajpra786.github.io/Library-Management-System/index.html
+  LinkedIn : linkedin.com/in/ritikraj8
 
 ---
 # Contributors
